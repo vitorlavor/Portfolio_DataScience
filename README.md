@@ -1,6 +1,6 @@
 # Project - House Rocket Company
 
-## About the project 🏠 
+## 🏠 About the project  
 
 **House Rocket** is a digital platform whose business model is the purchase and sale of properties using technology.
 
@@ -10,7 +10,7 @@ I am a Data Scientist hired by the company to help find the best business opport
 
 The dataset is available on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
-## Content 📈
+## 📈 Content
 
 1. Libraries
 2. Dataset
