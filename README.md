@@ -6,7 +6,7 @@
 
 I am a Data Scientist hired by the company to help find the best business opportunities in the real estate market. House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities.
 
-** The Company cenario is not real and this project's idea was taken from the blog Seja um Data Scientist. Click [here](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) to access the article.
+** The company is not real and this project's idea was taken from the blog Seja um Data Scientist. Click [here](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/) to access the article.
 
 The dataset is available on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
